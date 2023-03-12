@@ -1,1 +1,17 @@
-1	Star Wars: Episodio I - La amenaza fantasma
+1-	Las crónicas Jedi': Episodios 2, 3 y 1, en ese orden, de la T1
+1-	Star Wars Episodio I: La amenaza fantasma
+2-	Las crónicas Jedi': Episodio 4 de la T1
+3-	Star Wars Episodio II: El ataque de los clones
+4-	Star Wars: The clone wars' (Película)
+5-	Star Wars: The clone wars' (Serie)
+6-	Las crónicas Jedi': Episodio 5 de la T1
+7-	Star Wars: La remesa mala' (Serie)
+8-	Las crónicas Jedi': Episodio 6 de la T1
+9-	Star Wars Episodio III: La venganza de los sith
+10-	Han Solo: Una historia de Star Wars
+11-	Obi-Wan KenobiStar Wars: Rebels' (Serie)Ando' (Serie)
+12-	Rogue One: Una historia de Star Wars
+13-	La rebelión
+14-	Star Wars Episodio IV: Una nueva esperanza
+15-	Star Wars Episodio V: El imperio contraataca
+16-	Star Wars Episodio VI: El retorno del jedi
